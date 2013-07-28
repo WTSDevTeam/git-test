@@ -1,0 +1,9 @@
+D:\WORK\CSHARP\AppDemo\Test-GitHub02\git-test\Test-GitHub02\bin\Debug\Test-GitHub02.exe
+D:\WORK\CSHARP\AppDemo\Test-GitHub02\git-test\Test-GitHub02\bin\Debug\Test-GitHub02.pdb
+D:\WORK\CSHARP\AppDemo\Test-GitHub02\git-test\Test-GitHub02\obj\Debug\Test-GitHub02.csprojResolveAssemblyReference.cache
+D:\WORK\CSHARP\AppDemo\Test-GitHub02\git-test\Test-GitHub02\obj\Debug\Test_GitHub02.Form1.resources
+D:\WORK\CSHARP\AppDemo\Test-GitHub02\git-test\Test-GitHub02\obj\Debug\Test_GitHub02.Properties.Resources.resources
+D:\WORK\CSHARP\AppDemo\Test-GitHub02\git-test\Test-GitHub02\obj\Debug\Test-GitHub02.csproj.GenerateResource.Cache
+D:\WORK\CSHARP\AppDemo\Test-GitHub02\git-test\Test-GitHub02\obj\Debug\Test-GitHub02.exe.licenses
+D:\WORK\CSHARP\AppDemo\Test-GitHub02\git-test\Test-GitHub02\obj\Debug\Test-GitHub02.exe
+D:\WORK\CSHARP\AppDemo\Test-GitHub02\git-test\Test-GitHub02\obj\Debug\Test-GitHub02.pdb
