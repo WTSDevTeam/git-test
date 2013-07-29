@@ -20,5 +20,11 @@ namespace Test_GitHub02
         {
             MessageBox.Show("Hello World : " + this.textEdit1.Text);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form2 ofrm2 = new Form2();
+            ofrm2.Show();
+        }
     }
 }
